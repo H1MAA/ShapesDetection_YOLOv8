@@ -8,7 +8,6 @@ In this repository we will be using the popular Ultralytics YOLOv8 Object Detect
 ### Task Documentation:
 -   Download the dataset from Roboflow. It contains 2,244 Images With 9 Classes
 -   However the dataset is not split.
--   Running a custom python script, We quickly split the dataset into into 70,20,10 Split
 -   Now we reupload the dataset into Roboflow. Roboflow Automatically detects our images and annotations and it splits them into a 70/20/10 split
 -   Using Google Colab, Start a new notebook and upload the dataset to the google drive.
 
