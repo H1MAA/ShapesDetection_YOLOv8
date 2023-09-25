@@ -14,6 +14,7 @@ In this repository we will be using the popular Ultralytics YOLOv8 Object Detect
 
 
 ### [Link To my Google Drive](https://drive.google.com/drive/folders/1Prp1y9v7p-kV8tcZbUFFVlCJ6Hs4p18O?usp=drive_link) containing the updated dataset and weights 
+### Link to the [Notebook on Colab](https://colab.research.google.com/drive/1btaJXDv1dKLi7Iw48uCCZt42XKYG97iG?usp=sharing)
 
 ### Notebook Explanation
 
