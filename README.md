@@ -1,7 +1,7 @@
 # Shapes Detection Using YOLOv8
 
 ### Task Description:
-In this repository we will be using the popular Ultralytics YOLOv8 Object Detection model. We will be using the pretrained model on the Coco dataset and training it to recognize 2D Geometrical shapes on a custom [Dataset](https://universe.roboflow.com/new-workspace-qsre9/geometry_shapes/dataset/1) found on Roboflow 
+In this repository we will be using the popular Ultralytics YOLOv8 Object Detection model. We will be using the pretrained model on the Coco dataset and training it to recognize 2D Geometrical shapes on a custom [dataset](https://universe.roboflow.com/new-workspace-qsre9/geometry_shapes/dataset/1) found on Roboflow 
 
 
 
